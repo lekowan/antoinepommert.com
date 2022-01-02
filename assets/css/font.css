@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 200;
+	src: url("font-files/Inter-ExtraLight-BETA.woff2") format("woff2"), url("font-files/Inter-ExtraLight-BETA.woff") format("woff")
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	src: url("font-files/Inter-Regular.woff2") format("woff2"), url("font-files/Inter-Regular.woff") format("woff")
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: italic;
+	font-weight: 400;
+	src: url("font-files/Inter-Italic.woff2") format("woff2"), url("font-files/Inter-Italic.woff") format("woff")
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 600;
+	src: url("font-files/Inter-SemiBold.woff2") format("woff2"), url("font-files/Inter-SemiBold.woff") format("woff")
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 700;
+	src: url("font-files/Inter-Bold.woff2") format("woff2"), url("font-files/Inter-Bold.woff") format("woff")
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 800;
+	src: url("font-files/Inter-ExtraBold.woff2") format("woff2"), url("font-files/Inter-ExtraBold.woff") format("woff")
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 900;
+	src: url("font-files/Inter-Black.woff2") format("woff2"), url("font-files/Inter-Black.woff") format("woff")
+}
